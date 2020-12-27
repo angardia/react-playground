@@ -1,0 +1,23 @@
+@import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
+
+li{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: .5rem;
+    background-color: moccasin;
+
+}
+a{
+    text-decoration: none;
+}
+
+.fas {
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2rem;
+    border-spacing: 0;
+    color: brown;
+    padding-right: .5rem;
+}
+

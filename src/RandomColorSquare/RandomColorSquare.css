@@ -1,0 +1,16 @@
+.squareHolder{
+    width: 75%;
+    margin:auto;
+    background-color: #292420;
+    border-radius: 0.3rem;
+    padding: 6rem;
+    font-size: 1.6rem;
+    color: white;
+}
+
+.square {
+    margin:auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 0.3rem;
+}
